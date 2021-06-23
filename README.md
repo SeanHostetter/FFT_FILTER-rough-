@@ -6,7 +6,7 @@ Below is the FFT of the time domain data.  Enclosed in the 2 vertical black line
 
 ![Screenshot](Screenshot_FreqDomain.png)
 
-## Time Domain Result of This Process##
+## Time Domain Result of This Process
 Below is a closeup of a portion of the signal. The black line represents the signal before, and the blue line is after.  The Algorithm was a minor success, but it did not completely eliminate the parasitic(it appears that there are more harmonics of the 6ghz signal), and the algorithm may have been lightly destructive.  Further optimization required
 
 ![Screenshot](Screenshot_TimeDomain_Close.png)
